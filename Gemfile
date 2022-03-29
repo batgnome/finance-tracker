@@ -24,7 +24,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'better_errors'
 gem 'hirb'
 gem 'devise'
-gem 'bootstrap', '~> 5.1.3'
+gem 'bootstrap', '~> 4.4'
 gem 'jquery-rails'
 gem 'devise-bootstrap-views', '~> 1.0'
 # Use Active Storage variant
