@@ -1,3 +1,4 @@
+# README
 This is a finance tracking app with social media aspects. Keep with stocks and follow friends!
 
 [] Attribute name, ticker_symbol and price
