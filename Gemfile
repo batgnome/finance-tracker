@@ -28,6 +28,7 @@ gem 'bootstrap', '~> 4.4'
 gem 'jquery-rails'
 gem 'devise-bootstrap-views', '~> 1.0'
 gem 'iex-ruby-client'
+gem "font-awesome-rails"
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
