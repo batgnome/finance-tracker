@@ -28,12 +28,12 @@ module.exports = function (api) {
       (isProductionEnv || isDevelopmentEnv) && [
         '@babel/preset-env',
         {
+          loose: true,
           forceAllTransforms: true,
           useBuiltIns: 'entry',
           corejs: 3,
           modules: false,
           exclude: ['transform-typeof-symbol'],
-          loose: true
         }
       ]
     ].filter(Boolean),
